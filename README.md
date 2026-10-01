@@ -1,5 +1,3 @@
-> Junior Full-Stack Web Developer · React.js · Laravel · PHP · JavaScript · MySQL · MongoDB
-
 <p align="center">
   <img src="./terminal-profile.svg" alt="Aymane Moutoute terminal profile" width="100%" />
 </p>
