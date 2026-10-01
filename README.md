@@ -1,5 +1,3 @@
-# Aymane Moutoute — GitHub Profile README
-
 > Junior Full-Stack Web Developer · React.js · Laravel · PHP · JavaScript · MySQL · MongoDB
 
 <p align="center">
