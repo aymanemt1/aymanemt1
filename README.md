@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aymanemt1/aymanemt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 AYMANE MOUTOUTE
 
-Here are some ideas to get you started:
+### Junior Full-Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**React.js · Laravel · PHP · JavaScript · MySQL · MongoDB**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   $ whoami                                                               │
+│                                                                          │
+│   AYMANE MOUTOUTE                                                        │
+│   Junior Full-Stack Web Developer                                        │
+│                                                                          │
+│   $ cat profile.txt                                                      │
+│                                                                          │
+│   Building modern web applications with React, Laravel, PHP              │
+│   and JavaScript. I enjoy turning ideas into responsive,                │
+│   practical and user-friendly applications.                              │
+│                                                                          │
+│   $ current_focus                                                        │
+│                                                                          │
+│   → Full-Stack Web Development                                           │
+│   → REST APIs                                                            │
+│   → Responsive UI                                                        │
+│   → Database Design                                                      │
+│   → Clean & Maintainable Code                                            │
+│                                                                          │
+│   $ status                                                               │
+│                                                                          │
+│   ● Available for opportunities                                          │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
