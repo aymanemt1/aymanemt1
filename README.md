@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Junior Full-Stack Web Developer with 2 years of experience building and maintaining modern web applications. Focused on frontend and backend development, responsive interfaces, APIs, databases, debugging and version control.
+Full-Stack Web Developer with 2 years of experience building and maintaining modern web applications. Focused on frontend and backend development, responsive interfaces, APIs, databases, debugging and version control.
 
 ## 🧰 Tech Stack
 
