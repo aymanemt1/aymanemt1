@@ -1,43 +1,42 @@
-<div align="center">
+# Aymane Moutoute — GitHub Profile README
 
-# 👨‍💻 AYMANE MOUTOUTE
+> Junior Full-Stack Web Developer · React.js · Laravel · PHP · JavaScript · MySQL · MongoDB
 
-### Junior Full-Stack Web Developer
+<p align="center">
+  <img src="./terminal-profile.svg" alt="Aymane Moutoute terminal profile" width="100%" />
+</p>
 
-**React.js · Laravel · PHP · JavaScript · MySQL · MongoDB**
+## 🚀 About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+Junior Full-Stack Web Developer with 2 years of experience building and maintaining modern web applications. Focused on frontend and backend development, responsive interfaces, APIs, databases, debugging and version control.
 
-</div>
+## 🧰 Tech Stack
 
----
+**Frontend:** React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Material UI  
+**Backend:** Laravel · PHP · Node.js · Express.js · REST APIs  
+**Databases:** MySQL · MongoDB · PostgreSQL  
+**Tools:** Git · GitHub · GitLab · Postman · VS Code · Linux · Docker · Figma
 
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   $ whoami                                                               │
-│                                                                          │
-│   AYMANE MOUTOUTE                                                        │
-│   Junior Full-Stack Web Developer                                        │
-│                                                                          │
-│   $ cat profile.txt                                                      │
-│                                                                          │
-│   Building modern web applications with React, Laravel, PHP              │
-│   and JavaScript. I enjoy turning ideas into responsive,                │
-│   practical and user-friendly applications.                              │
-│                                                                          │
-│   $ current_focus                                                        │
-│                                                                          │
-│   → Full-Stack Web Development                                           │
-│   → REST APIs                                                            │
-│   → Responsive UI                                                        │
-│   → Database Design                                                      │
-│   → Clean & Maintainable Code                                            │
-│                                                                          │
-│   $ status                                                               │
-│                                                                          │
-│   ● Available for opportunities                                          │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+## 💼 Featured Projects
+
+### ✂️ Barber SaaS Booking & Management Platform
+SaaS platform for barbers to manage business and clients, including booking, available time slots, appointments and client information.
+
+**React.js · Laravel · PHP · MySQL · Tailwind CSS**
+
+### 🏋️ Gym Management Web Application
+Full-stack solution for gym management, calorie calculation, exercise features, member registration, payments and class scheduling.
+
+**React.js · Laravel · PHP · MySQL · JavaScript**
+
+### 💻 Responsive Web Applications
+Responsive interfaces built for desktop and mobile experiences.
+
+**HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS**
+
+## 📫 Connect
+
+- Portfolio: https://aymanemtl.github.io/myportfolio/
+- LinkedIn: https://linkedin.com/in/aymane-moutoute
+
+> CODE → BUILD → IMPROVE → REPEAT
