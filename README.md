@@ -32,7 +32,7 @@ Responsive interfaces built for desktop and mobile experiences.
 
 ## 📫 Connect
 
-- Portfolio: https://aymanemtl.github.io/myportfolio/
+- Portfolio: https://aymanemt1.github.io/myresume/
 - LinkedIn: https://linkedin.com/in/aymane-moutoute
 
 > CODE → BUILD → IMPROVE → REPEAT
