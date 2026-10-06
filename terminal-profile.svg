@@ -12,40 +12,41 @@
 
   <text x="50" y="95" fill="#18ff72" font-family="monospace" font-size="17">$ whoami --verbose</text>
   <text x="50" y="132" fill="#42ff8b" font-family="monospace" font-weight="bold" font-size="38" filter="url(#glow)">AYMANE MOUTOUTE</text>
-  <text x="50" y="160" fill="#c9ffe0" font-family="monospace" font-size="19">Full-Stack Web Developer</text>
-  <line x1="50" y1="180" x2="575" y2="180" stroke="#155e36"/>
+  <text x="50" y="160" fill="#c9ffe0" font-family="monospace" font-size="19">Full-Stack Software Developer</text>
+  <text x="50" y="186" fill="#63ffa0" font-family="monospace" font-size="16">Building Modern SaaS</text>
+  <line x1="50" y1="206" x2="575" y2="206" stroke="#155e36"/>
 
-  <text x="50" y="215" fill="#ffcc33" font-family="monospace" font-size="15">[ identity ]</text>
-  <text x="50" y="245" fill="#ffb000" font-family="monospace" font-size="14">PROFILE</text><text x="170" y="245" fill="#8dffd0" font-family="monospace" font-size="14">Full-Stack Web Developer</text>
-  <text x="50" y="270" fill="#ffb000" font-family="monospace" font-size="14">FOCUS</text><text x="170" y="270" fill="#8dffd0" font-family="monospace" font-size="14">React · Laravel · APIs · Responsive UI</text>
-  <text x="50" y="295" fill="#ffb000" font-family="monospace" font-size="14">DATABASE</text><text x="170" y="295" fill="#8dffd0" font-family="monospace" font-size="14">MySQL · MongoDB · PostgreSQL</text>
-  <text x="50" y="320" fill="#ffb000" font-family="monospace" font-size="14">TOOLS</text><text x="170" y="320" fill="#8dffd0" font-family="monospace" font-size="14">Git · Docker · Linux · Postman · Figma</text>
-  <text x="50" y="345" fill="#ffb000" font-family="monospace" font-size="14">EXPERIENCE</text><text x="170" y="345" fill="#8dffd0" font-family="monospace" font-size="14">2+ years · Web Development</text>
+  <text x="50" y="241" fill="#ffcc33" font-family="monospace" font-size="15">[ identity ]</text>
+  <text x="50" y="271" fill="#ffb000" font-family="monospace" font-size="14">PROFILE</text><text x="170" y="271" fill="#8dffd0" font-family="monospace" font-size="14">Full-Stack Software Developer</text>
+  <text x="50" y="296" fill="#ffb000" font-family="monospace" font-size="14">FOCUS</text><text x="170" y="296" fill="#8dffd0" font-family="monospace" font-size="14">React · Laravel · APIs · Responsive UI</text>
+  <text x="50" y="321" fill="#ffb000" font-family="monospace" font-size="14">DATABASE</text><text x="170" y="321" fill="#8dffd0" font-family="monospace" font-size="14">MySQL · MongoDB · PostgreSQL</text>
+  <text x="50" y="346" fill="#ffb000" font-family="monospace" font-size="14">TOOLS</text><text x="170" y="346" fill="#8dffd0" font-family="monospace" font-size="14">Git · Docker · Linux · Postman · Figma</text>
+  <text x="50" y="371" fill="#ffb000" font-family="monospace" font-size="14">EXPERIENCE</text><text x="170" y="371" fill="#8dffd0" font-family="monospace" font-size="14">2+ years · Web Development</text>
 
-  <line x1="50" y1="370" x2="575" y2="370" stroke="#155e36"/>
-  <text x="50" y="405" fill="#ffcc33" font-family="monospace" font-size="15">[ projects ]</text>
-  <text x="50" y="435" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Barber SaaS Booking &amp; Management</text>
-  <text x="50" y="460" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Gym Management Web Application</text>
-  <text x="50" y="485" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Responsive Web Applications</text>
-  <text x="50" y="530" fill="#18ff72" font-family="monospace" font-size="15">$ status</text>
-  <text x="50" y="558" fill="#b8ffd1" font-family="monospace" font-size="14">● BUILDING   ● LEARNING   ● IMPROVING</text>
-  <text x="50" y="595" fill="#ffcc33" font-family="monospace" font-size="14">$ echo "CODE → BUILD → IMPROVE → REPEAT"</text>
+  <line x1="50" y1="396" x2="575" y2="396" stroke="#155e36"/>
+  <text x="50" y="431" fill="#ffcc33" font-family="monospace" font-size="15">[ projects ]</text>
+  <text x="50" y="461" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Barber SaaS Booking &amp; Management</text>
+  <text x="50" y="486" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Gym Management Web Application</text>
+  <text x="50" y="511" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Responsive Web Applications</text>
+  <text x="50" y="556" fill="#18ff72" font-family="monospace" font-size="15">$ status</text>
+  <text x="50" y="584" fill="#b8ffd1" font-family="monospace" font-size="14">● BUILDING   ● LEARNING   ● IMPROVING</text>
+  <text x="50" y="621" fill="#ffcc33" font-family="monospace" font-size="14">$ echo "CODE → BUILD → IMPROVE → REPEAT"</text>
 
-  <line x1="610" y1="90" x2="610" y2="590" stroke="#155e36"/>
+  <line x1="610" y1="90" x2="610" y2="616" stroke="#155e36"/>
   <text x="650" y="95" fill="#18ff72" font-family="monospace" font-size="15">$ stack --list</text>
   <text x="650" y="135" fill="#ffcc33" font-family="monospace" font-size="14">FRONTEND</text>
   <text x="650" y="165" fill="#8dffd0" font-family="monospace" font-size="14">React.js · JavaScript</text>
   <text x="650" y="190" fill="#8dffd0" font-family="monospace" font-size="14">HTML5 · CSS3 · Tailwind CSS</text>
-  <text x="650" y="230" fill="#ffcc33" font-family="monospace" font-size="14">BACKEND</text>
-  <text x="650" y="260" fill="#8dffd0" font-family="monospace" font-size="14">Laravel · PHP</text>
-  <text x="650" y="285" fill="#8dffd0" font-family="monospace" font-size="14">Node.js · Express.js · REST APIs</text>
-  <text x="650" y="325" fill="#ffcc33" font-family="monospace" font-size="14">DATABASES</text>
-  <text x="650" y="355" fill="#8dffd0" font-family="monospace" font-size="14">MySQL · MongoDB · PostgreSQL</text>
-  <text x="650" y="395" fill="#ffcc33" font-family="monospace" font-size="14">TOOLS</text>
-  <text x="650" y="425" fill="#8dffd0" font-family="monospace" font-size="14">Git · GitHub · Docker · Linux</text>
-  <text x="650" y="450" fill="#8dffd0" font-family="monospace" font-size="14">Postman · VS Code · Figma</text>
-  <rect x="650" y="490" width="450" height="90" rx="8" fill="#041b10" stroke="#176b3d"/>
-  <text x="675" y="520" fill="#ffcc33" font-family="monospace" font-size="14">[ connect ]</text>
-  <text x="675" y="548" fill="#8dffd0" font-family="monospace" font-size="13">aymanemtl.github.io/myportfolio</text>
-  <text x="675" y="570" fill="#8dffd0" font-family="monospace" font-size="13">linkedin.com/in/aymane-moutoute</text>
+  <text x="650" y="256" fill="#ffcc33" font-family="monospace" font-size="14">BACKEND</text>
+  <text x="650" y="286" fill="#8dffd0" font-family="monospace" font-size="14">Laravel · PHP</text>
+  <text x="650" y="311" fill="#8dffd0" font-family="monospace" font-size="14">Node.js · Express.js · REST APIs</text>
+  <text x="650" y="351" fill="#ffcc33" font-family="monospace" font-size="14">DATABASES</text>
+  <text x="650" y="381" fill="#8dffd0" font-family="monospace" font-size="14">MySQL · MongoDB · PostgreSQL</text>
+  <text x="650" y="421" fill="#ffcc33" font-family="monospace" font-size="14">TOOLS</text>
+  <text x="650" y="451" fill="#8dffd0" font-family="monospace" font-size="14">Git · GitHub · Docker · Linux</text>
+  <text x="650" y="476" fill="#8dffd0" font-family="monospace" font-size="14">Postman · VS Code · Figma</text>
+  <rect x="650" y="516" width="450" height="90" rx="8" fill="#041b10" stroke="#176b3d"/>
+  <text x="675" y="546" fill="#ffcc33" font-family="monospace" font-size="14">[ connect ]</text>
+  <text x="675" y="574" fill="#8dffd0" font-family="monospace" font-size="13">aymanemtl.github.io/myportfolio</text>
+  <text x="675" y="596" fill="#8dffd0" font-family="monospace" font-size="13">linkedin.com/in/aymane-moutoute</text>
 </svg>
