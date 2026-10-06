@@ -12,7 +12,7 @@
 
   <text x="50" y="95" fill="#18ff72" font-family="monospace" font-size="17">$ whoami --verbose</text>
   <text x="50" y="132" fill="#42ff8b" font-family="monospace" font-weight="bold" font-size="38" filter="url(#glow)">AYMANE MOUTOUTE</text>
-  <text x="50" y="160" fill="#c9ffe0" font-family="monospace" font-size="19">Full-Stack Software Developer | React.js & Laravel | Building Modern SaaS, E-commerce & Business Applications</text>
+  <text x="50" y="160" fill="#c9ffe0" font-family="monospace" font-size="19">Full-Stack Web Developer</text>
   <line x1="50" y1="180" x2="575" y2="180" stroke="#155e36"/>
 
   <text x="50" y="215" fill="#ffcc33" font-family="monospace" font-size="15">[ identity ]</text>
