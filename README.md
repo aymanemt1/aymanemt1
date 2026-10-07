@@ -1,1 +1,63 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Ii4vdGVybWluYWwtcHJvZmlsZS5zdmciIGFsdD0iQXltYW5lIE1vdXRvdXRlIHRlcm1pbmFsIHByb2ZpbGUiIHdpZHRoPSIxMDAlIiAvPgo8L3A+CgojIyDwn5qAIEFib3V0IE1lCgoqKkZ1bGwtU3RhY2sgU29mdHdhcmUgRGV2ZWxvcGVyKiogd2l0aCAyKyB5ZWFycyBvZiBleHBlcmllbmNlIGJ1aWxkaW5nIGFuZCBtYWludGFpbmluZyBtb2Rlcm4gd2ViIGFwcGxpY2F0aW9ucy4gSSB3b3JrIGFjcm9zcyB0aGUgc3RhY2sg4oCUIFJlYWN0LmpzIGZyb250ZW5kcywgTGFyYXZlbC9QSFAgJiBOb2RlLmpzIGJhY2tlbmRzLCBSRVNUIEFQSXMsIGRhdGFiYXNlcyBhbmQgYnJvd3NlciBhdXRvbWF0aW9uLiBDdXJyZW50bHkgYnVpbGRpbmcgU2FhUyBwcm9kdWN0cyBhbmQgb3Blbi1zb3VyY2Ugc3RhcnRlciBraXRzLgoKIyMg8J+nsCBUZWNoIFN0YWNrCgohW1JlYWN0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JlYWN0LTIwMjMyQT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cmVhY3QmbG9nb0NvbG9yPTYxREFGQikKIVtKYXZhU2NyaXB0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmFTY3JpcHQtRjdERjFFP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj1ibGFjaykKIVtUYWlsd2luZCBDU1NdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVGFpbHdpbmRfQ1NTLTM4QjJBQz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dGFpbHdpbmQtY3NzJmxvZ29Db2xvcj13aGl0ZSkKIVtQSFBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUEhQLTc3N0JCND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cGhwJmxvZ29Db2xvcj13aGl0ZSkKIVtMYXJhdmVsXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xhcmF2ZWwtRkYyRDIwP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1sYXJhdmVsJmxvZ29Db2xvcj13aGl0ZSkKIVtOb2RlLmpzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL05vZGUuanMtMzM5OTMzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1ub2RlZG90anMmbG9nb0NvbG9yPXdoaXRlKQohW015U1FMXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL015U1FMLTAwNUM4ND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bXlzcWwmbG9nb0NvbG9yPXdoaXRlKQohW01vbmdvREJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTW9uZ29EQi00RUE5NEI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW1vbmdvZGImbG9nb0NvbG9yPXdoaXRlKQohW1N1cGFiYXNlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1N1cGFiYXNlLTNFQ0Y4RT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289c3VwYWJhc2UmbG9nb0NvbG9yPXdoaXRlKQohW1B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1weXRob24mbG9nb0NvbG9yPXdoaXRlKQohW0dpdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HaXQtRjA1MDMyP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXQmbG9nb0NvbG9yPXdoaXRlKQohW1ZTIENvZGVdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVlNfQ29kZS0wMDdBQ0M/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXZpc3VhbHN0dWRpb2NvZGUmbG9nb0NvbG9yPXdoaXRlKQoKQWxzbzogQ2xlcmsgwrcgQ29udmV4IMK3IFJFU1QgQVBJcyDCtyBTZWxlbml1bSDCtyBQbGF5d3JpZ2h0IMK3IFBvc3RtYW4gwrcgRmlnbWEKCiMjIPCfkrwgRmVhdHVyZWQgUHJvamVjdHMKCiMjIyDwn5qAIFNhYVMgU3RhcnRlciBLaXQKUHJvZHVjdGlvbi1zdHlsZSBTYWFTIHN0YXJ0ZXIga2l0OiBtYXJrZXRpbmcgbGFuZGluZyBwYWdlLCBDbGVyayBhdXRoZW50aWNhdGlvbiwgU3VwYWJhc2UgZGF0YWJhc2UgYW5kIGEgcHJvdGVjdGVkIGRhc2hib2FyZCB3aXRoIHByb2plY3RzIENSVUQuIFdvcmtzIG91dCBvZiB0aGUgYm94LCBkZW1vIG1vZGUgd2l0aCBubyBrZXlzIHJlcXVpcmVkLgoKKipSZWFjdCDCtyBWaXRlIMK3IENsZXJrIMK3IFN1cGFiYXNlKiog4oCUIFvihpIgUmVwb3NpdG9yeV0oaHR0cHM6Ly9naXRodWIuY29tL2F5bWFuZW10MS9zYWFzLXN0YXJ0ZXIta2l0KQoKIyMjIOKcgu+4jyBCYXJiZXIgU2FhUyDigJQgQm9va2luZyAmIE1hbmFnZW1lbnQgUGxhdGZvcm0KU2FhUyBwbGF0Zm9ybSBmb3IgYmFyYmVycyB0byBtYW5hZ2UgYnVzaW5lc3MgYW5kIGNsaWVudHM6IGJvb2tpbmcsIGF2YWlsYWJsZSB0aW1lIHNsb3RzLCBhcHBvaW50bWVudHMgYW5kIGNsaWVudCBpbmZvcm1hdGlvbi4KCioqUmVhY3QuanMgwrcgTGFyYXZlbCDCtyBQSFAgwrcgTXlTUUwgwrcgVGFpbHdpbmQgQ1NTKioKCiMjIyDwn4+L77iPIEd5bSBNYW5hZ2VtZW50IFdlYiBBcHBsaWNhdGlvbgpGdWxsLXN0YWNrIHNvbHV0aW9uIGZvciBneW0gbWFuYWdlbWVudDogY2Fsb3JpZSBjYWxjdWxhdGlvbiwgZXhlcmNpc2UgZmVhdHVyZXMsIG1lbWJlciByZWdpc3RyYXRpb24sIHBheW1lbnRzIGFuZCBjbGFzcyBzY2hlZHVsaW5nLgoKKipSZWFjdC5qcyDCtyBMYXJhdmVsIMK3IFBIUCDCtyBNeVNRTCDCtyBKYXZhU2NyaXB0KioKCiMjIyDwn5K7IFJlc3BvbnNpdmUgV2ViIEFwcGxpY2F0aW9ucwpSZXNwb25zaXZlIGludGVyZmFjZXMgYnVpbHQgZm9yIGRlc2t0b3AgYW5kIG1vYmlsZSBleHBlcmllbmNlcy4KCiMjIPCfk4ogR2l0SHViIFN0YXRzCgo8cD4KICA8aW1nIGFsaWduPSJjZW50ZXIiIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPWF5bWFuZW10MSZzaG93X2ljb25zPXRydWUmdGhlbWU9dG9reW9uaWdodCIgYWx0PSJheW1hbmVtdDEgc3RhdHMiIC8+CjwvcD4KPHA+CiAgPGltZyBhbGlnbj0iY2VudGVyIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3M/dXNlcm5hbWU9YXltYW5lbXQxJmxheW91dD1jb21wYWN0JnRoZW1lPXRva3lvbmlnaHQiIGFsdD0iYXltYW5lbXQxIHRvcCBsYW5ncyIgLz4KPC9wPgoKIyMg8J+knSBDb25uZWN0IHdpdGggbWUKCjxwIGFsaWduPSJsZWZ0Ij4KICA8YSBocmVmPSJodHRwczovL2xpbmtlZGluLmNvbS9pbi9heW1hbmUtbW91dG91dGUiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi0wMDc3QjU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxpbmtlZGluJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJMaW5rZWRJbiIgLz48L2E+CiAgPGEgaHJlZj0ibWFpbHRvOm1vdXRvdXRlYXltYW4xMEBnbWFpbC5jb20iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VtYWlsLUQxNDgzNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z21haWwmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkVtYWlsIiAvPjwvYT4KICA8YSBocmVmPSJodHRwczovL215cmVzdW1lLXR3by1uZW9uLnZlcmNlbC5hcHAiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Qb3J0Zm9saW8tN0MzQUVEP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz12ZXJjZWwmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IlBvcnRmb2xpbyIgLz48L2E+CjwvcD4KCj4gQ09ERSDihpIgQlVJTEQg4oaSIElNUFJPVkUg4oaSIFJFUEVBVAo=
+<p align="center">
+  <img src="./terminal-profile.svg" alt="Aymane Moutoute terminal profile" width="100%" />
+</p>
+
+## 🚀 About Me
+
+**Full-Stack Software Developer** with 2+ years of experience building and maintaining modern web applications. I work across the stack — React.js frontends, Laravel/PHP & Node.js backends, REST APIs, databases and browser automation. Currently building SaaS products and open-source starter kits.
+
+## 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+Also: Clerk · Convex · REST APIs · Selenium · Playwright · Postman · Figma
+
+## 💼 Featured Projects
+
+### 🚀 SaaS Starter Kit
+Production-style SaaS starter kit: marketing landing page, Clerk authentication, Supabase database and a protected dashboard with projects CRUD. Works out of the box, demo mode with no keys required.
+
+**React · Vite · Clerk · Supabase** — [→ Repository](https://github.com/aymanemt1/saas-starter-kit)
+
+### ✂️ Barber SaaS — Booking & Management Platform
+SaaS platform for barbers to manage business and clients: booking, available time slots, appointments and client information.
+
+**React.js · Laravel · PHP · MySQL · Tailwind CSS**
+
+### 🏋️ Gym Management Web Application
+Full-stack solution for gym management: calorie calculation, exercise features, member registration, payments and class scheduling.
+
+**React.js · Laravel · PHP · MySQL · JavaScript**
+
+### 💻 Responsive Web Applications
+Responsive interfaces built for desktop and mobile experiences.
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanemt1&show_icons=true&theme=tokyonight" alt="aymanemt1 stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanemt1&layout=compact&theme=tokyonight" alt="aymanemt1 top langs" />
+</p>
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aymane-moutoute" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:moutouteayman10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://myresume-two-neon.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+> CODE → BUILD → IMPROVE → REPEAT
