@@ -12,12 +12,12 @@
 
   <text x="50" y="95" fill="#18ff72" font-family="monospace" font-size="17">$ whoami --verbose</text>
   <text x="50" y="132" fill="#42ff8b" font-family="monospace" font-weight="bold" font-size="38" filter="url(#glow)">AYMANE MOUTOUTE</text>
-  <text x="50" y="160" fill="#c9ffe0" font-family="monospace" font-size="19">Full-Stack Software Developer</text>
+  <text x="50" y="160" fill="#c9ffe0" font-family="monospace" font-size="19">Full Stack Software Developer</text>
   <text x="50" y="186" fill="#63ffa0" font-family="monospace" font-size="16">Building Modern SaaS</text>
   <line x1="50" y1="206" x2="575" y2="206" stroke="#155e36"/>
 
   <text x="50" y="241" fill="#ffcc33" font-family="monospace" font-size="15">[ identity ]</text>
-  <text x="50" y="271" fill="#ffb000" font-family="monospace" font-size="14">PROFILE</text><text x="170" y="271" fill="#8dffd0" font-family="monospace" font-size="14">Full-Stack Software Developer</text>
+  <text x="50" y="271" fill="#ffb000" font-family="monospace" font-size="14">PROFILE</text><text x="170" y="271" fill="#8dffd0" font-family="monospace" font-size="14">Full Stack Software Developer</text>
   <text x="50" y="296" fill="#ffb000" font-family="monospace" font-size="14">FOCUS</text><text x="170" y="296" fill="#8dffd0" font-family="monospace" font-size="14">React · Laravel · APIs · Responsive UI</text>
   <text x="50" y="321" fill="#ffb000" font-family="monospace" font-size="14">DATABASE</text><text x="170" y="321" fill="#8dffd0" font-family="monospace" font-size="14">MySQL · MongoDB · PostgreSQL</text>
   <text x="50" y="346" fill="#ffb000" font-family="monospace" font-size="14">TOOLS</text><text x="170" y="346" fill="#8dffd0" font-family="monospace" font-size="14">Git · Docker · Linux · Postman · Figma</text>
