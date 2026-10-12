@@ -68,7 +68,7 @@ Production-style SaaS starter kit: marketing landing page, Clerk authentication,
   <img align="center" src="https://streak-stats.demolab.com?user=aymanemt1&theme=tokyonight" alt="aymanemt1 streak" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanemt1&layout=compact&theme=tokyonight" alt="aymanemt1 top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanemt1&layout=compact&theme=tokyonight&hide=css,html,blade&langs_count=8" alt="aymanemt1 top langs" />
 </p>
 
 ## 🐍 Contributions
