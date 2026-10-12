@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal-profile.svg" alt="Aymane Moutoute terminal profile" width="100%" />
+  <img src="./terminal-profile.svg?v=2" alt="Aymane Moutoute terminal profile" width="100%" />
 </p>
 
 ## 🚀 About Me
