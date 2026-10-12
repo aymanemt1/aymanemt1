@@ -60,6 +60,11 @@ Production-style SaaS starter kit: marketing landing page, Clerk authentication,
 
 **React · Vite · Clerk · Supabase** — [→ Repository](https://github.com/aymanemt1/saas-starter-kit)
 
+### 📋 TeamOS — Project Management SaaS
+Trello-style project management SaaS: Vue 3 kanban board with drag & drop and realtime updates, Supabase backend (Postgres + Auth + RLS), teams, subtasks, comments and activity feed.
+
+**Vue 3 · Supabase · Tailwind CSS** — [→ Repository](https://github.com/aymanemt1/teamos)
+
 ## 📊 GitHub Stats
 
 <p>
