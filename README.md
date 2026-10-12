@@ -2,6 +2,10 @@
   <img src="./terminal-profile.svg?v=2" alt="Aymane Moutoute terminal profile" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aymanemt1&color=blueviolet" alt="profile views" />
+</p>
+
 ## 🚀 About Me
 
 **Full Stack Software Developer** with 2+ years of experience building and maintaining modern web applications. I work across the stack — React.js frontends, Laravel/PHP & Node.js backends, REST APIs, databases and browser automation. Currently building SaaS products and open-source starter kits.
@@ -60,10 +64,26 @@ Production-style SaaS starter kit: marketing landing page, Clerk authentication,
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanemt1&show_icons=true&theme=tokyonight" alt="aymanemt1 stats" />
+</p><p>
+  <img align="center" src="https://streak-stats.demolab.com?user=aymanemt1&theme=tokyonight" alt="aymanemt1 streak" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanemt1&layout=compact&theme=tokyonight" alt="aymanemt1 top langs" />
 </p>
+
+## 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymanemt1&theme=tokyonight&column=7&margin-w=8" alt="trophies" />
+</p>
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymanemt1/aymanemt1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymanemt1/aymanemt1/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aymanemt1/aymanemt1/output/github-snake.svg" />
+</picture>
 
 ## 🤝 Connect with me
 
