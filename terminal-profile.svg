@@ -25,9 +25,9 @@
 
   <line x1="50" y1="396" x2="575" y2="396" stroke="#155e36"/>
   <text x="50" y="431" fill="#ffcc33" font-family="monospace" font-size="15">[ projects ]</text>
-  <text x="50" y="461" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Barber SaaS Booking &amp; Management</text>
-  <text x="50" y="486" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Gym Management Web Application</text>
-  <text x="50" y="511" fill="#63ffa0" font-family="monospace" font-size="14">&gt; Responsive Web Applications</text>
+  <text x="50" y="461" fill="#63ffa0" font-family="monospace" font-size="14">&gt; ERP - Stock &amp; Invoicing</text>
+  <text x="50" y="486" fill="#63ffa0" font-family="monospace" font-size="14">&gt; RestoFlow - Restaurant Management</text>
+  <text x="50" y="511" fill="#63ffa0" font-family="monospace" font-size="14">&gt; GymHearth - Gym Management SaaS</text>
   <text x="50" y="556" fill="#18ff72" font-family="monospace" font-size="15">$ status</text>
   <text x="50" y="584" fill="#b8ffd1" font-family="monospace" font-size="14">● BUILDING   ● LEARNING   ● IMPROVING</text>
   <text x="50" y="621" fill="#ffcc33" font-family="monospace" font-size="14">$ echo "CODE → BUILD → IMPROVE → REPEAT"</text>
@@ -47,6 +47,6 @@
   <text x="650" y="476" fill="#8dffd0" font-family="monospace" font-size="14">Postman · VS Code · Figma</text>
   <rect x="650" y="516" width="450" height="90" rx="8" fill="#041b10" stroke="#176b3d"/>
   <text x="675" y="546" fill="#ffcc33" font-family="monospace" font-size="14">[ connect ]</text>
-  <text x="675" y="574" fill="#8dffd0" font-family="monospace" font-size="13">aymanemtl.github.io/myportfolio</text>
-  <text x="675" y="596" fill="#8dffd0" font-family="monospace" font-size="13">linkedin.com/in/aymane-moutoute</text>
+  <text x="675" y="574" fill="#8dffd0" font-family="monospace" font-size="13">aymane-moutoute.vercel.app</text>
+  <text x="675" y="596" fill="#8dffd0" font-family="monospace" font-size="13">linkedin.com/in/aymanemoutoute1</text>
 </svg>
