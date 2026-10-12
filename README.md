@@ -63,7 +63,7 @@ Production-style SaaS starter kit: marketing landing page, Clerk authentication,
 ## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanemt1&show_icons=true&theme=tokyonight" alt="aymanemt1 stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanemt1&show_icons=true&theme=tokyonight&count_private=true" alt="aymanemt1 stats" />
 </p><p>
   <img align="center" src="https://streak-stats.demolab.com?user=aymanemt1&theme=tokyonight" alt="aymanemt1 streak" />
 </p>
