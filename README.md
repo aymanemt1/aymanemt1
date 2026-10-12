@@ -4,11 +4,12 @@
 
 ## 🚀 About Me
 
-**Full-Stack Software Developer** with 2+ years of experience building and maintaining modern web applications. I work across the stack — React.js frontends, Laravel/PHP & Node.js backends, REST APIs, databases and browser automation. Currently building SaaS products and open-source starter kits.
+**Full Stack Software Developer** with 2+ years of experience building and maintaining modern web applications. I work across the stack — React.js frontends, Laravel/PHP & Node.js backends, REST APIs, databases and browser automation. Currently building SaaS products and open-source starter kits.
 
 ## 🧰 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,23 +26,35 @@ Also: Clerk · Convex · REST APIs · Selenium · Playwright · Postman · Figma
 
 ## 💼 Featured Projects
 
+### 🏭 ERP — Stock & Invoicing
+Complete ERP system: multi-warehouse stock with atomic transfers, purchase orders, quotations that convert to invoices, PDF invoicing, payments and low-stock alerts. Laravel API covered by 39 feature tests, plus a 12-page React dashboard.
+
+**Laravel · React · Tailwind CSS** — [→ Repository](https://github.com/aymanemt1/erp)
+
+### 🍽️ RestoFlow — Restaurant Management
+Restaurant management SaaS: visual floor grid with live table states, POS order flow, reservations with double-booking prevention, menu and staff management. Laravel API (31 feature tests) plus a React client.
+
+**Laravel · React · Tailwind CSS** — [→ Repository](https://github.com/aymanemt1/restoflow)
+
+### 🏋️ GymHearth — Gym Management SaaS
+Multi-tenant gym management SaaS that brings members, operations and business insights into one focused workspace. Live in production.
+
+**React · Convex · Clerk · Stripe** — [→ Live Demo](https://gymhearth.vercel.app)
+
+### 📅 BookingPro — Appointment Booking
+Complete appointment booking system: Laravel API with a real availability engine (slot grid, overlap detection, guest bookings, 13 feature tests) and a React client with live calendar, 3-step booking flow and admin dashboard.
+
+**Laravel · React · Tailwind CSS** — [→ API](https://github.com/aymanemt1/bookingpro-api) · [→ Client](https://github.com/aymanemt1/bookingpro-client)
+
+### 🛒 ShopStack — E-commerce
+Full e-commerce build: Laravel REST API (Sanctum auth, filterable catalog, cart, atomic checkout, wishlist, Stripe payments — 25 feature tests) and a React storefront (search, filters, cart, Stripe/COD checkout, orders, admin dashboard).
+
+**Laravel · React · Stripe** — [→ API](https://github.com/aymanemt1/laravel-shop-api) · [→ Storefront](https://github.com/aymanemt1/shop-storefront)
+
 ### 🚀 SaaS Starter Kit
 Production-style SaaS starter kit: marketing landing page, Clerk authentication, Supabase database and a protected dashboard with projects CRUD. Works out of the box, demo mode with no keys required.
 
 **React · Vite · Clerk · Supabase** — [→ Repository](https://github.com/aymanemt1/saas-starter-kit)
-
-### ✂️ Barber SaaS — Booking & Management Platform
-SaaS platform for barbers to manage business and clients: booking, available time slots, appointments and client information.
-
-**React.js · Laravel · PHP · MySQL · Tailwind CSS**
-
-### 🏋️ Gym Management Web Application
-Full-stack solution for gym management: calorie calculation, exercise features, member registration, payments and class scheduling.
-
-**React.js · Laravel · PHP · MySQL · JavaScript**
-
-### 💻 Responsive Web Applications
-Responsive interfaces built for desktop and mobile experiences.
 
 ## 📊 GitHub Stats
 
@@ -55,7 +68,7 @@ Responsive interfaces built for desktop and mobile experiences.
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/aymane-moutoute" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aymanemoutoute1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:moutouteayman10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://aymane-moutoute.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
