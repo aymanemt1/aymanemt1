@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aymanemt1&color=blueviolet" alt="profile views" />
+  <strong>🟢 Open to full-time Full Stack roles · Tangier, Morocco / Remote</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aymanemt1&color=d7ff54" alt="profile views" />
 </p>
 
 ## 🚀 About Me
@@ -12,42 +16,39 @@
 
 ## 🧰 Tech Stack
 
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+### Backend & Data
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 Also: Clerk · Convex · REST APIs · Postman · Figma · Agile/Scrum · CI/CD
 
 ## 💼 Featured Projects
 
 ### 🏭 ERP — Stock & Invoicing
-Complete ERP system: multi-warehouse stock with atomic transfers, purchase orders, quotations that convert to invoices, PDF invoicing, payments and low-stock alerts. Laravel API covered by 39 feature tests, plus a 12-page React dashboard.
+Complete ERP system: multi-warehouse stock with atomic transfers, purchase orders, quotations that convert to invoices, PDF invoicing, payments and low-stock alerts. Laravel API covered by 40 feature tests, plus a 12-page React dashboard.
 
 **Laravel · React · Tailwind CSS** — [→ Repository](https://github.com/aymanemt1/erp)
 
 ### 🍽️ RestoFlow — Restaurant Management
-Restaurant management SaaS: visual floor grid with live table states, POS order flow, reservations with double-booking prevention, menu and staff management. Laravel API (31 feature tests) plus a React client.
+Restaurant management SaaS: visual floor grid with live table states, POS order flow, reservations with double-booking prevention, menu and staff management. Laravel API (32 feature tests) plus a React client.
 
 **Laravel · React · Tailwind CSS** — [→ Repository](https://github.com/aymanemt1/restoflow)
 
@@ -62,7 +63,7 @@ Complete appointment booking system: Laravel API with a real availability engine
 **Laravel · React · Tailwind CSS** — [→ API](https://github.com/aymanemt1/bookingpro-api) · [→ Client](https://github.com/aymanemt1/bookingpro-client)
 
 ### 🛒 ShopStack — E-commerce
-Full e-commerce build: Laravel REST API (Sanctum auth, filterable catalog, cart, atomic checkout, wishlist, Stripe payments — 25 feature tests) and a React storefront (search, filters, cart, Stripe/COD checkout, orders, admin dashboard).
+Full e-commerce build: Laravel REST API (Sanctum auth, filterable catalog, cart, atomic checkout, wishlist, Stripe payments — 29 feature tests) and a React storefront (search, filters, cart, Stripe/COD checkout, orders, admin dashboard).
 
 **Laravel · React · Stripe** — [→ API](https://github.com/aymanemt1/laravel-shop-api) · [→ Storefront](https://github.com/aymanemt1/shop-storefront)
 
@@ -76,15 +77,20 @@ Trello-style project management SaaS: Vue 3 kanban board with drag & drop and re
 
 **Vue 3 · Supabase · Tailwind CSS** — [→ Repository](https://github.com/aymanemt1/teamos)
 
+### 🧠 Quiz App — Dev-Stack Practice
+Dev-stack practice quiz with 25 stacks, Darija hints, and an English/French/Darija UI.
+
+**React · JavaScript · GSAP** — [→ Live Demo](https://quiz-app-aymanemt1.vercel.app) · [→ Repository](https://github.com/aymanemt1/Quiz_App)
+
 ## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanemt1&show_icons=true&theme=tokyonight&count_private=true" alt="aymanemt1 stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=aymanemt1&show_icons=true&count_private=true&hide_border=true&bg_color=0b0c0d&title_color=d7ff54&icon_color=d7ff54&text_color=f2f3ee&ring_color=ff7442" alt="aymanemt1 stats" />
 </p><p>
-  <img align="center" src="https://streak-stats.demolab.com?user=aymanemt1&theme=tokyonight" alt="aymanemt1 streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=aymanemt1&hide_border=true&background=0b0c0d&ring=ff7442&fire=ff7442&currStreakNum=f2f3ee&sideNums=f2f3ee&currStreakLabel=d7ff54&sideLabels=d7ff54&dates=f2f3ee&stroke=d7ff54" alt="aymanemt1 streak" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanemt1&layout=compact&theme=tokyonight&hide=css,html,blade&langs_count=8" alt="aymanemt1 top langs" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=aymanemt1&layout=compact&hide=css,html,blade&langs_count=8&hide_border=true&bg_color=0b0c0d&title_color=d7ff54&text_color=f2f3ee" alt="aymanemt1 top langs" />
 </p>
 
 ## 🐍 Contributions
@@ -100,7 +106,7 @@ Trello-style project management SaaS: Vue 3 kanban board with drag & drop and re
 <p align="left">
   <a href="https://www.linkedin.com/in/aymanemoutoute1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:moutouteayman10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://aymane-moutoute.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aymane-moutoute.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d7ff54?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 > CODE → BUILD → IMPROVE → REPEAT
