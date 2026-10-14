@@ -82,6 +82,11 @@ Dev-stack practice quiz with 25 stacks, Darija hints, and an English/French/Dari
 
 **React · JavaScript · GSAP** — [→ Live Demo](https://quiz-app-aymanemt1.vercel.app) · [→ Repository](https://github.com/aymanemt1/Quiz_App)
 
+## 🌱 Open Source
+
+- [laravel/docs](https://github.com/laravel/docs/pull/11409) — Documented the `@stack` render order limitation in Blade. ![pull request state](https://img.shields.io/github/pulls/detail/state/laravel/docs/11409)
+- [get-convex/convex-helpers](https://github.com/get-convex/convex-helpers/pull/1025) — Fixed `zodToConvex` making `z.partialRecord` enum-key fields required on zod 4.6, with tests. ![pull request state](https://img.shields.io/github/pulls/detail/state/get-convex/convex-helpers/1025)
+
 ## 📊 GitHub Stats
 
 <p>
