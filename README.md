@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Also: Clerk · Convex · REST APIs · Postman · Figma · Agile/Scrum · CI/CD
+Also: REST APIs · Postman · Agile/Scrum · CI/CD
 
 ## 💼 Featured Projects
 
@@ -55,7 +55,7 @@ Restaurant management SaaS: visual floor grid with live table states, POS order 
 ### 🏋️ GymHearth — Gym Management SaaS
 Multi-tenant gym management SaaS that brings members, operations and business insights into one focused workspace. Live in production.
 
-**React · Convex · Clerk · Stripe** — [→ Live Demo](https://gymhearth.vercel.app)
+**React · Stripe** — [→ Live Demo](https://gymhearth.vercel.app)
 
 ### 📅 BookingPro — Appointment Booking
 Complete appointment booking system: Laravel API with a real availability engine (slot grid, overlap detection, guest bookings, 13 feature tests) and a React client with live calendar, 3-step booking flow and admin dashboard.
@@ -70,7 +70,7 @@ Full e-commerce build: Laravel REST API (Sanctum auth, filterable catalog, cart,
 ### 🚀 SaaS Starter Kit
 Production-style SaaS starter kit: marketing landing page, Clerk authentication, Supabase database and a protected dashboard with projects CRUD. Works out of the box, demo mode with no keys required.
 
-**React · Vite · Clerk · Supabase** — [→ Repository](https://github.com/aymanemt1/saas-starter-kit)
+**React · Vite · Supabase** — [→ Repository](https://github.com/aymanemt1/saas-starter-kit)
 
 ### 📋 TeamOS — Project Management SaaS
 Trello-style project management SaaS: Vue 3 kanban board with drag & drop and realtime updates, Supabase backend (Postgres + Auth + RLS), teams, subtasks, comments and activity feed.
